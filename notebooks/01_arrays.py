@@ -31,3 +31,4 @@ matrix = jnp.array([
 print(matrix)
 print(matrix.shape)
 print(matrix.dtype)
+print(matrix.T)
