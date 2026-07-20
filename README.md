@@ -2,6 +2,8 @@
 
 A daily learning log for going from NumPy/PyTorch to JAX, and eventually into RL. Each day introduces one idea, explained simply first, then practiced in code.
 
+Dev Blog Series : Learning RL and JAX in Public - from zero to DeepMind ! : https://dev.to/madhumithakolkar
+
 ## Structure
 
 Each day lives in `notebooks/` as a pair of files:
