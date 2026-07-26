@@ -26,6 +26,9 @@ If both files for a day already exist, that lesson is done. Otherwise it's next 
 | 1 | [00_a_what_is_jax.md](notebooks/00_a_what_is_jax.md) | [01_b_arrays.py](notebooks/01_b_arrays.py) | What JAX is, how it differs from NumPy/PyTorch |
 | 2 | [02_a_intro_grad_and_jit.md](notebooks/02_a_intro_grad_and_jit.md) | [02_b_grad_and_jit.py](notebooks/02_b_grad_and_jit.py) | Derivatives, gradients, `jax.grad`, `jax.jit` |
 | 3 | [03_a_vmap.md](notebooks/03_a_vmap.md) | [03_b_vmap.py](notebooks/03_b_vmap.py) | Vectorising functions with `jax.vmap` |
+| 4 | [04_a_q_learning.md](notebooks/04_a_q_learning.md) | [04_b_q_learning-1.py](notebooks/04_b_q_learning-1.py) | Q-learning, your first RL algorithm |
+| 5 | [05_a_dqn.md](notebooks/05_a_dqn.md) | [05_b_dqn.py](notebooks/05_b_dqn.py) | DQN - Deep Q-Networks |
+| 6 | [06_a_reinforce.md](notebooks/06_a_reinforce.md) | [06_b_reinforce.py](notebooks/06_b_reinforce.py) | REINFORCE - learning a policy directly |
 
 ## Setup
 
