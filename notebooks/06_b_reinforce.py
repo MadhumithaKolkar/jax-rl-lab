@@ -36,7 +36,7 @@ def one_hot(state):
 print("Environment ready: same 4x4 gridworld as Days 4 and 5.")
 
 
-# ── Section 1: Policy Network : ──────────────────────────────────────────────────
+# ── Section 1: Policy Network ──────────────────────────────────────────────────
 # %%
 # The policy network outputs probabilities over actions (softmax output)
 # This is the key difference from DQN - DQN output Q-values, this outputs probs
