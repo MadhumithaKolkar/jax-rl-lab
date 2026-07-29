@@ -37,7 +37,7 @@ If both files for a day already exist, that lesson is done. Otherwise it's next 
 cd notebooks
 python -m venv .venv
 source .venv/bin/activate
-pip install jax jaxlib ipython jupyter
+pip install jax jaxlib optax numpy ipython jupyter
 ```
 
 ## Goal
