@@ -34,7 +34,7 @@ print("Environment ready.")
 # ── Section 1: Two Networks - Actor and Critic ────────────────────────────────
 # %%
 # Actor:  state -> action probabilities  (decides what to do)
-# Critic : state -> single value number   (judges how good the state is)
+# Critic: state -> single value number   (judges how good the state is)
 
 key = jax.random.PRNGKey(0)
 
