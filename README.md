@@ -29,6 +29,7 @@ If both files for a day already exist, that lesson is done. Otherwise it's next 
 | 4 | [04_a_q_learning.md](notebooks/04_a_q_learning.md) | [04_b_q_learning-1.py](notebooks/04_b_q_learning-1.py) | Q-learning, your first RL algorithm |
 | 5 | [05_a_dqn.md](notebooks/05_a_dqn.md) | [05_b_dqn.py](notebooks/05_b_dqn.py) | DQN - Deep Q-Networks |
 | 6 | [06_a_reinforce.md](notebooks/06_a_reinforce.md) | [06_b_reinforce.py](notebooks/06_b_reinforce.py) | REINFORCE - learning a policy directly |
+| 7 | [07_a_actor_critic.md](notebooks/07_a_actor_critic.md) | [07_b_actor_critic-1.py](notebooks/07_b_actor_critic-1.py) | Actor-Critic - fixing REINFORCE's variance problem |
 
 ## Setup
 
