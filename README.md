@@ -2,7 +2,7 @@
 
 A daily learning log for going from NumPy/PyTorch to JAX, and eventually into RL. Each day introduces one idea, explained simply first, then practiced in code.
 
-**Madhumitha Kolkar** — Senior ML Engineer
+**Madhumitha Kolkar** - Senior ML Engineer
 [LinkedIn](https://www.linkedin.com/in/madhumithakolkar) · [GitHub](https://www.github.com/MadhumithaKolkar) · [dev.to blog](https://www.dev.to/madhumithakolkar) · [YouTube](https://www.youtube.com/@madhumithakolkar_) · [LeetCode](https://www.leetcode.com/u/madhumithakolkar)
 
 Dev Blog Series : Learning RL and JAX in Public - from zero to DeepMind ! : https://dev.to/madhumithakolkar
