@@ -33,6 +33,7 @@ If both files for a day already exist, that lesson is done. Otherwise it's next 
 | 5 | [05_a_dqn.md](notebooks/05_a_dqn.md) | [05_b_dqn.py](notebooks/05_b_dqn.py) | DQN - Deep Q-Networks |
 | 6 | [06_a_reinforce.md](notebooks/06_a_reinforce.md) | [06_b_reinforce.py](notebooks/06_b_reinforce.py) | REINFORCE - learning a policy directly |
 | 7 | [07_a_actor_critic.md](notebooks/07_a_actor_critic.md) | [07_b_actor_critic-1.py](notebooks/07_b_actor_critic-1.py) | Actor-Critic - fixing REINFORCE's variance problem |
+| 8 | [08_a_ppo.md](notebooks/08_a_ppo.md) | [08_b_ppo.py](notebooks/08_b_ppo.py) | PPO - the algorithm behind ChatGPT |
 
 ## Setup
 
